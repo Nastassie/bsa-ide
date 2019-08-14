@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Hedonist" timestamp="2019-07-29T22:26:28" time="61.804" tests="3" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Hedonist"/>
+      <property name="capabilities" value="chrome.75_0_3770_142.windowsnt"/>
+      <property name="file" value=".\specs\PlacePage\PlacePage_test.js"/>
+    </properties>
+    <testcase classname="chrome.75_0_3770_142.windowsnt.Hedonist" name="create_a_new_review" time="17.802"/>
+    <testcase classname="chrome.75_0_3770_142.windowsnt.Hedonist" name="check_in" time="17.723"/>
+    <testcase classname="chrome.75_0_3770_142.windowsnt.Hedonist" name="rate_place" time="19.656"/>
+  </testsuite>
+</testsuites>

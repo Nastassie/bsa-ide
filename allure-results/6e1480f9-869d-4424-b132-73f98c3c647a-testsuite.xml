@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1565638516901' stop='1565638516904'>
+    <name>Hedonist</name>
+    <title>Hedonist</title>
+    <test-cases>
+        <test-case start='1565638516903' status='pending' stop='1565638516903'>
+            <name>creation a new place</name>
+            <title>creation a new place</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

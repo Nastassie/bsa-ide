@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1565638532354' stop='1565638532356'>
+    <name>Settings page tests</name>
+    <title>Settings page tests</title>
+    <test-cases>
+        <test-case start='1565638532355' status='pending' stop='1565638532356'>
+            <name>should login with changed password</name>
+            <title>should login with changed password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1565638532356' status='pending' stop='1565638532356'>
+            <name>should edit user first name</name>
+            <title>should edit user first name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

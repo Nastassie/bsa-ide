@@ -1,0 +1,23 @@
+initialise wdio service "chromedriver"
+Run onPrepare hook
+Error in onPrepareHook: Error: Cannot find module './bootstrap_removeUser.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.onPrepare (D:\QA\bsa19\bsa-ide\wdio.conf.js:190:9)
+    at Promise.all.onPrepareHook.map.hook (D:\QA\bsa19\bsa-ide\node_modules\@wdio\cli\build\utils.js:56:14)
+    at Array.map (<anonymous>)
+    at runOnPrepareHook (D:\QA\bsa19\bsa-ide\node_modules\@wdio\cli\build\utils.js:54:36)
+    at Launcher.run (D:\QA\bsa19\bsa-ide\node_modules\@wdio\cli\build\launcher.js:82:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Start worker 0-0 with arg: wdio.conf.js
+Runner 0-0 finished with exit code 1
+Start worker 0-1 with arg: wdio.conf.js
+Runner 0-1 finished with exit code 0
+Start worker 0-2 with arg: wdio.conf.js
+Runner 0-2 finished with exit code 1
+Start worker 0-3 with arg: wdio.conf.js
+Runner 0-3 finished with exit code 1
+Start worker 0-4 with arg: wdio.conf.js
+Runner 0-4 finished with exit code 0

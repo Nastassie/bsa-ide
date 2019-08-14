@@ -1,0 +1,9 @@
+2019-08-12T19:35:29.386Z INFO @wdio/local-runner: Run worker command: run
+2019-08-12T19:35:29.397Z DEBUG @wdio/utils:initialiseServices: initialise wdio service "chromedriver"
+2019-08-12T19:35:29.528Z DEBUG @wdio/local-runner:utils: init remote session
+2019-08-12T19:35:29.598Z INFO webdriver: [POST] http://127.0.0.1:4444/session
+2019-08-12T19:35:29.599Z INFO webdriver: DATA { capabilities:
+   { alwaysMatch: { browserName: 'chrome' }, firstMatch: [ {} ] },
+  desiredCapabilities: { browserName: 'chrome' } }
+2019-08-12T19:35:32.371Z INFO webdriver: COMMAND deleteSession()
+2019-08-12T19:35:32.372Z INFO webdriver: [DELETE] http://127.0.0.1:4444/session/bb1b01286887f384456685b779f46fb1

@@ -1,0 +1,20 @@
+2019-08-12T19:35:19.249Z INFO @wdio/local-runner: Run worker command: run
+2019-08-12T19:35:19.260Z DEBUG @wdio/utils:initialiseServices: initialise wdio service "chromedriver"
+2019-08-12T19:35:19.372Z DEBUG @wdio/local-runner:utils: init remote session
+2019-08-12T19:35:19.445Z INFO webdriver: [POST] http://127.0.0.1:4444/session
+2019-08-12T19:35:19.445Z INFO webdriver: DATA { capabilities:
+   { alwaysMatch: { browserName: 'chrome' }, firstMatch: [ {} ] },
+  desiredCapabilities: { browserName: 'chrome' } }
+2019-08-12T19:35:23.386Z ERROR @wdio/runner: Error: Cannot find module './../testData1.json'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (D:\QA\bsa19\bsa-ide\helpers\helpers.js:9:21)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+2019-08-12T19:35:23.390Z INFO webdriver: COMMAND deleteSession()
+2019-08-12T19:35:23.391Z INFO webdriver: [DELETE] http://127.0.0.1:4444/session/1365584b6dd7d3a155ade7d51414a744

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Hedonist" timestamp="2019-07-29T22:27:33" time="26.489" tests="2" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Hedonist"/>
+      <property name="capabilities" value="chrome.75_0_3770_142.windowsnt"/>
+      <property name="file" value=".\specs\SignUpPage\Hedonist_test.js"/>
+    </properties>
+    <testcase classname="chrome.75_0_3770_142.windowsnt.Hedonist" name="should_login_with_invalid_data" time="5.197"/>
+    <testcase classname="chrome.75_0_3770_142.windowsnt.Hedonist" name="the_registration" time="17.001"/>
+  </testsuite>
+</testsuites>

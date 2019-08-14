@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Hedonist" timestamp="2019-08-12T22:35:16" time="0.002" tests="1" failures="0" errors="0" skipped="1">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Hedonist"/>
+      <property name="capabilities" value="chrome.76_0_3809_100.windowsnt"/>
+      <property name="file" value=".\specs\NewPlace\NewPlace_test.js"/>
+    </properties>
+    <testcase classname="chrome.76_0_3809_100.windowsnt.Hedonist" name="creation_a_new_place" time="0">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

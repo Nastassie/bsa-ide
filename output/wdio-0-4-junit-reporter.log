@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Settings_page_tests" timestamp="2019-08-12T22:35:32" time="0.002" tests="2" failures="0" errors="0" skipped="2">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Settings page tests"/>
+      <property name="capabilities" value="chrome.76_0_3809_100.windowsnt"/>
+      <property name="file" value=".\specs\UserSettings\settingsPageTests_PO_test.js"/>
+    </properties>
+    <testcase classname="chrome.76_0_3809_100.windowsnt.Settings_page_tests" name="should_login_with_changed_password" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.76_0_3809_100.windowsnt.Settings_page_tests" name="should_edit_user_first_name" time="0">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>
